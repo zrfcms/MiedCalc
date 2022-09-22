@@ -9,3 +9,5 @@ Miedema Calculator is a user-interface program, which is designed and organized 
 The Miedema Calculator is currently copyrighted and distributed free of charge for academic, scientific, and educational, and non-commercial users with our permission. Commercial users may also use this software with no cost until a license is established. This software is provided ‘as it is’ without any expressed or implied warranty. To obtain the Miedema Calculator, one can send an email with the registration form to the email: zrfcms@buaa.edu.cn.
 
 
+Online registration form can be found via Google sites:
+https://sites.google.com/site/zrfbuaa/softwares/registration-form
